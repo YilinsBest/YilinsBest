@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YilinsBest
-- 👀 I’m interested in Animation
+- 👀 I’m interested in Animation creating
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me wechatID：ly7732464397
 
